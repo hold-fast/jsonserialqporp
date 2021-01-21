@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>grid.json</file>
+        <file>interp_list.json</file>
+        <file>pick.json</file>
+    </qresource>
+</RCC>
